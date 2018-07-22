@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Learningg.Learning.LearningSeleniumTest">
+        <methods>
+          <include name="Signup"/>
+          <include name="Logout"/>
+          <include name="Signin"/>
+          <include name="WebPageLaunch"/>
+          <include name="CloseBrowser"/>
+          <include name="OpenBrowser"/>
+          <include name="main"/>
+          <include name="Shopping"/>
+        </methods>
+      </class> <!-- Learningg.Learning.LearningSeleniumTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
