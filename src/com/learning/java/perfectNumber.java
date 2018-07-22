@@ -34,6 +34,7 @@ public class perfectNumber {
 
 			System.out.println("\nIts not a perfect Number as the addition of all numbers divisible by "
 					+ checkingIfPerfectNumber + " comes out to be " + temp);
+			System.out.println("All verified");
 		}
 	}
 
